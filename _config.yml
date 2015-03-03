@@ -5,7 +5,7 @@ url: "http://mattbellis.github.io/turn-key-cloud-chamber" # the base hostname & 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Turn-key cloud chamber
   avatar: avatar.png
   gravatar: # email md5 hash
   description: "A website with blog posts and pages" # used by search engines

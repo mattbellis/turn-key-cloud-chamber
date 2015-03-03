@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mattbellis.github.io/turn-key-cloud-chamber/" # the base hostname & protocol for your site
+baseurl: "turn-key-cloud-chamber" # the subpath of your site, e.g. /blog/
+url: "http://mattbellis.github.io/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:

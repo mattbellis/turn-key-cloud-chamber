@@ -11,4 +11,4 @@ Is this *bold*?
 
 Screenshot below:
 
-![My helpful screenshot]({{site.url}}/assets/cosmicwinner.png)
+![My helpful screenshot](/assets/cosmicwinner.png)

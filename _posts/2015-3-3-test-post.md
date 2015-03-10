@@ -7,7 +7,7 @@ Some text.
 * This looks like a list.
 * Here is another entry.
 
-Is this *bold*?
+Is this *bold*? no.
 
 Screenshot below:
 

@@ -1,7 +1,17 @@
 ---
 layout: post
-title: Kelly and Matt installed a theme. 
+title: Background
+
 ---
+Website created by blah blah blahhhhh
+
+What is a cloud chamber?
+
+What are cosmic rays?
+
+Why do you care?
+
+
 Some text.
 
 * This looks like a list.

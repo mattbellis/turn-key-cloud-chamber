@@ -1,7 +1,31 @@
 ---
 layout: post
-title: Feature images
+title: Materials
 feature-img: "img/sample_feature_img.png"
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+Although this "turn-key" cloud chamber is relatively easy to build, certain supplies are required to create an efficient system. 
+
+2 Peltier Coolers
+* Model 12709	
+* Model 12710 
+* Can be purchased for  ~$10 from most electronics retailers
+
+Power Supply
+*
+
+
+CPU Cooler
+*Used to cool peltiers 
+
+Thermal Paste
+
+
+LED's
+
+Petri Dish
+
+Black Spray Paint
+
+
+
 

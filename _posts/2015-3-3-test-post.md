@@ -17,16 +17,27 @@ decay into particles known as secondary cosmic rays which can
 then be detected on the surface of the Earth. The turn-key cloud 
 chamber is an affordable and easily constructed device which 
 can be used to visualize the tracks left by these particles. 
-Working from a prototype developed by former Siena research 
-students, we have since created a stable and reliable model with 
-an additional component: the use of a webcam triggered by 
-cosmic rays which can then record the given event.
 
+Although cosmic rays have been our primary focus thus far,
+cloud chambers can be used to view the tracks of any charged particle
+which may pass through it, including alpha and beta particles which 
+are emitted from radioactive samples. 
 
-Some text.
+There are many types of particle detectors including most popularly semiconductor detectors,scintillators and cloud chambers. Cloud chambers
+can be built and maintained rather inexpensively and are therefore a more
+reasonable modelfor amatuer particle physic enthusiasts such as myself.
 
-* This looks like a list.
-* Here is another entry.
+This site contains much of the material which is essential to build,
+and understand, a turn-key peltier-based cloud chamber, as well as the code
+which was used for our data-logging componenet. 
+
+Here you will find
+
+* The materials needed
+* Step by step instructions 
+* Code used for the web-cam data- logging component
+* Examples of some of the images and videos we acquired of cosmic events
+
 
 Is this *bold*? no.
 

@@ -1,51 +1,35 @@
 ---
 layout: default
+home: true
 ---
 
 <div class="home">
+    <ul class="post-list">
+        {% if site.pagination %}
+        {% assign source = paginator.posts %}
+        {% else %}
+        {% assign source = site.posts %}
+        {% endif %}
 
-  {% if site.theme.header_text %}
-  <div class="call-out">{{ site.theme.header_text }}</div>
-  {% endif %}
+        {% for post in source %}
+        <li>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
+                <div class="post-list-info">
+                    <h2 class="post-list-title">{{ post.title }}</h2>
+                    <span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </a>
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post-teaser">
-    
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h1>
-        
-        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-      </header>
+            <img src="{{ post.thumb }}" class="post-list-thumb" />
+        </li>
+        {% endfor %}
+    </ul>
 
-      <div class="excerpt">
-        {{ post.excerpt }}
-
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
-      </div>
-      
-    </div>
-    {% endfor %}
-  </div>
-
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-  
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i> 
-      {{ site.theme.str_prev }}
-    </a>
-    {% endif %}
-
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      {{ site.theme.str_next }} 
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
-  </div>
-  {% endif %}
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+    <!-- <p class="rss-subscribe">
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+            Subscribe via RSS
+            <i class="icon ion-social-rss"></i>
+        </a>
+    </p> -->
 </div>

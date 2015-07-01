@@ -2,11 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+## Getting Started
+The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
+
+    git clone https://github.com/SalGnt/Travelogue.git
+    cd Travelogue
+    jekyll serve
+
+Visit the [Jekyll website](http://jekyllrb.com/) for more information.

@@ -1,0 +1,245 @@
+---
+layout: post
+title: "How to Make a Cloud Chamber"
+date: 2015-06-17
+backgrounds:
+    - http://www.radonattahoe.com/images/thorium-cloud-chamber.jpg
+thumb: http://upload.wikimedia.org/wikipedia/commons/1/15/Nuclear_particle_in_a_diffusion_cloud_chamber.png
+categories: travel city
+tags: cloud_chamber
+---
+
+> **Step by Step Instructions to Build a Cloud Chamber**
+
+**Insert picture of finished product
+
+**Step 1:**
+ Spray paint the bottom outside of the petri dish lid (the one with the bigger diameter) black and put it to the side to let it dry with the spray painted surface facing up.
+
+>**Step 2:**
+You have to convert the power supply to a lab bench power supply so that when you press the switch it will turn on. **DO NOT PLUG THE 430 WATT POWER SUPPLY IN.** Cut the mesh wire organizer of the 24 pin connector to be about 3 inches from the opening where the wires come out of the power supply (see Figure 1).
+
+![alt text](https://mail.google.com/mail/u/0/?ui=2&ik=5f3d9120e7&view=fimg&th=14e02b50486b9aad&attid=0.1.1&disp=emb&attbid=ANGjdJ-P9rC_Z4wu1P_zH_ZuS5T6pO6F8ZfYeIU-QUete3vlOIZJ0zgsp__YLtd7MLUID5O3y4NxXzUv0WrC7ukyyySub6uQmtVt66mjLRqya9QXB4iPkr8CBZ6JR7w&sz=s0-l75-ft&ats=1434564496420&rm=14e02b50486b9aad&zw&atsh=1)
+Figure 1. Diagram of 24 Pin Connector
+
+**NOTE:**
+WHEN SOLDERING/WORKING WITH ANY WIRES **DO NOT** HAVE THE POWER SUPPLY PLUGGED IN.
+
+**Step 3:**
+Cut another mesh wire organizer with a yellow wire in it to be 2 inches from the opening where the wires come out of the power supply. Cut the needed yellow wire the necessary length as shown in Step 5. Cut the other wires around the same length as the mesh wire organizer.
+
+>**Step 4:**
+Cut the needed wires of the 24 pin adapter as shown in Step 5 the necessary lengths, and the extra wires to be around the same length as the mesh wire organizer.
+
+**Step 5:**
+Strip the end of 5 black wires, 2 yellow wires, 1 red wire, and 1 green wire from the 24 pin adapter from the power supply. Also strip the end of 1 yellow wire from another group of wires in the power supply. Make sure none of the stripped parts of different color wires touch.
+
+Here are the lengths of each wire (from where they come out of the power supply to before the stripped part of the wire):
+
+* Black wire 1 (connected to the CPU Cooler with 4 pin adapter): 4 1/4 inches
+* Black wire 2 (connected to the green wire): Any short length that does not hang off edge of mounting board.
+* Black wire 3 (connected to the black wire on the 12710 peltier): 7 inches
+* Black wire 4 (connected to the black wire on the 12709 peltier): 7 inches
+* **Black wire 5 (connected to the black wire on LED strip): 4 1/2 inches**
+* Yellow Wire 1 (connected to the CPU Cooler with 4 pin adapter): 4 1/4 inches
+* Yellow Wire 2 (connected to the red wire on the 12710 peltier): 7 inches
+* Yellow Wire 3 (connected to the red wire on LED strip): 4 1/2 inches
+* Red Wire (connected to the red wire on the 12709 peltier): 7 inches
+* Green Wire (connected to black wire 2): Any short length that does not hang off edge of mounting board.
+
+>**Step 6:**
+From the 24 pin adapter, use electrical tape to group together like colored wires that are not needed (the ones that are not listed in Step 5). 
+
+**Step 7:**
+Now use a zip tie to group together all the wires from the 24 pin adapter. Then tape around the mesh and wires all together with electrical tape. (See Figure 2) 
+**Include Picture)**
+Figure 2. Picture of Taped Wires in Mesh Wire Organizer
+
+>**Step 8:** 
+Repeat Steps 6 and 7 for the other adapter with the needed yellow wire. 
+
+**Step 9:**
+Cut the other mesh wire organizers to be about an inch from the opening where the wires come out of the power supply. 
+
+>**Step 10:**
+Cut the wires to be about the same length of the mesh wire organizers and repeat Steps 6 and 7 for the rest of the wire adapters. 
+
+**Step 11:**
+Solder female wire connectors to the black, red and yellow wires from the power supply and a male wire connector to the green wire from the power supply. Then put electrical tape over each part of the wire connectors that you have soldered to the wires from the power supply.
+
+* **NOTE:**
+Click on this link to learn how to solder a wire to a wire connector. Use a soldering stand to hold the wire connector while soldering because the wire connector will become very hot. **(https://www.youtube.com/watch?v=clwAV3YH9PA)**
+
+**IMPORTANT:**
+After soldering, you should put the electrical tape around the bottom part of the male connector (part on the right in Figure 2), and then cover the female connector fully, making it a little longer so that it will overlap the electrical tape on the female connector when they are put together.
+
+![alt text](https://mail.google.com/mail/u/0/?ui=2&ik=5f3d9120e7&view=fimg&th=14e02b47c9bee8d6&attid=0.1.1&disp=emb&attbid=ANGjdJ8eMEmX1GQK0HVSH0tjZdgb4WCQRmRekrBhw4dn-K91EdC6t-ivbO3lJQIJ5a7deLjVpkxrnuI8XyQXpS1dQypzLxd_gABL6mAZOKBRttdr_3Wf8_r-9v-oO60&sz=s0-l75-ft&ats=1434564617387&rm=14e02b47c9bee8d6&zw&atsh=1)
+Figure 2. Wire Connector Unconnected
+
+![alt text](https://mail.google.com/mail/u/0/?ui=2&ik=5f3d9120e7&view=fimg&th=14e02b47c9bee8d6&attid=0.1.2&disp=emb&attbid=ANGjdJ_vvcDPrS-ievfVbk6WHH7efyBo9XOAxl0JHHneI-2Qhifm11yHC_vfHXaeXE08fSj0-KYVlose0kkhlZrtFh3ZYh-4KDpYitMX8uWqEJngAyiZW1rjd-IqPuY&sz=s0-l75-ft&ats=1434564617387&rm=14e02b47c9bee8d6&zw&atsh=1)
+Figure 3. Wire Connector Connected
+
+
+**Step 5:**
+Connect the green and black wire 2 together.
+
+>**Step 6:**
+Plug the power supply in and turn it on to make sure that the fan works. Turn it off and unplug it afterwards.
+
+**Step 7:**
+Solder female wire connectors to the black wires and red wires on the 12710 and 12709 peltiers. Put the electrical tape on them as shown above. 
+
+>**Step 8:**
+Once the fan works, place the CPU cooler (Cooler Master Hyper D92 or Cooler Master V8 GTS) so that the pipes are on your left and right side and the fan is facing you as you are facing the CPU cooler (see Figure 4).
+
+**Step 9:**
+Put a thin layer of the thermal paste on the top surface of the CPU cooler. The thermal paste should cover the same area as the peltier.
+
+* **NOTE:**
+You can squirt the thermal paste onto the surface and then spread with a plastic card/credit card like piece.
+
+>**Step 10:**
+Put the 12710 peltier on top of the thermal paste so that the wires are perpendicular to the pipes on the CPU cooler. The red wire on the peltier should be on your right as you are facing it, as shown in Figure 4.
+
+![alt text](https://mail.google.com/mail/u/0/?ui=2&ik=5f3d9120e7&view=fimg&th=14e0298003f38f78&attid=0.1.1&disp=emb&attbid=ANGjdJ-buckS2c3BeJ0f-Wz44vsLMh-bpFmopR27aI5BGtBLzIv8RWk-NtTzPu7WGhrCyg99Yc8LVjLJ7gftQTaFsg2_pmazE12otK2CEgFv3yOkh0tcmqECqplCaWY&sz=s0-l75-ft&ats=1434563131838&rm=14e0298003f38f78&zw&atsh=1)
+Figure 4. Placement of 12710 Peltier on the CPU Cooler
+
+**Step 11:**
+Press the peltier down and move it slightly so that you know it has contact with the thermal paste.
+
+>**Step 12:**
+Connect yellow wire 2 (12V) from the power supply to the red wire on the 12710 peltier and connect black wire 3 (ground) from the power supply to the black wire on the peltier.
+
+**Step 13:**
+To test it, turn on the power source and touch the top of the peltier, if it is hot, unplug it immediately, you have put the peltier on wrong. If it is cold you did it correctly. Unplug the power source. 
+
+>**Step 14:**
+To connect the power supply to the CPU cooler, you should connect yellow wire 1 from the power supply to a **? in/cm connector wire?** and black wire 1 from the power supply to the 4 pin adapter by using wire connectors. Figure 5 shows you where to connect the yellow and black wires. In the HYPER D92 CPU cooler you will need to connect 2 **? in/cm connector wires?** to one wire connector to connect to the yellow, and do the same for the black because there are two 4 pin adapters. You should solder 2 **? in/cm connector wires?** to a female wire connector to connect to yellow wire 1 (we suggest using 2 yellow **connector wires?** to connect to yellow wire 1 from the power supply and 2 black **connector wires?** to connect to black wire 1 from the power supply to make things less confusing). Then do the same for black wire 1.
+
+![alt text](https://mail.google.com/mail/u/0/?ui=2&ik=5f3d9120e7&view=fimg&th=14e02981ee2e72ca&attid=0.1.1&disp=emb&attbid=ANGjdJ8zFssONjM-BiqDzk7jgvg_dUU0UMSQGMN8TGxhqeXgFLLUu2twWHyMma4GFwmOHH-PqcBmv7s79l7V23fpPja5CCknZyQCbxYvFJAC06t2vhtNGT-mmPja55c&sz=s0-l75-ft&ats=1434563262387&rm=14e02981ee2e72ca&zw&atsh=1)
+Figure 5. Picture of 4 Pin PWM Coming From the CPU Cooler
+
+**Step 15:**
+Turn on the power supply to make sure the fans work on the CPU cooler.
+
+>**Step 16:**
+Put a thin layer of thermal paste on the top of the 12710 peltier and place the 12709 peltier on top of the 12710 peltier with the red wire on the right side as you are facing it,
+pushing down on it.
+
+**Step 17:**
+Connect the red wire (5V) from the power supply to the red wire on the 12709 peltier and connect black wire 4 (ground) from the power supply to the black wire on the 12709 peltier. 
+
+>**Step 18:**
+To test it, turn on the power source and touch the top of the peltier. If it is hot unplug it immediately, you have put the peltier on incorrectly. If it is cold you did it correctly. Unplug the power source.
+
+**Step 19:**
+You can request project panel pieces from our website, or you can cut them yourself. Use a hot wire cutter to cut 3 pieces of project panel to keep the peltier in place on the CPU cooler. Figure 6 shows the dimensions for the project panel.
+
+**Add figure (drawing). Figure 6. The Dimensions of Each Piece of Project Panel with the Cooler Master HYPER D92 and Cooler Master V8 GTS.
+
+Hot glue the 2 shorter pieces to the longer piece and then lay it around the peltier so that there is an opening for the wires (look at Figure 7). 
+
+>**Step 20:**
+Cut a piece of kapton tape and place it over the peltier to keep the peltier in place. If it is the HYPER D92 CPU cooler you should only use one piece of tape and have it going perpendicular to the wires from the peltier (parallel to the pipes on the CPU cooler) and wrap it around one of the pipes (shown in Figure 8).
+
+![alt text](https://mail.google.com/mail/u/0/?ui=2&ik=5f3d9120e7&view=fimg&th=14e029bd08eb3172&attid=0.1.1&disp=emb&attbid=ANGjdJ-rnNwG-eJPHULcqLtGmkakDvEf-Zh3FyTCCV3vuRHF5zRq1LIp7bjkkAwNNlBoDctamu33sreaOKW7cFFdwiJcWR4dcUqp6pIU_WygAHl-slKSXkIN_5Fws3A&sz=s0-l75-ft&ats=1434563479494&rm=14e029bd08eb3172&zw&atsh=1)
+Figure 7. Both peltiers placed on the surface of the CPU cooler with the project panel around it, along with a piece of kapton tape applied over everything.
+
+**ADD FIGURE 8. Figure 8. This shows how the kapton tape should be applied around the pipes on the CPU Cooler.
+
+**Step 21:**
+Apply thermal paste on top of the peltier (this should be thicker than what was previously done)
+
+>**Step 22:**
+Put the spray painted lid of the petri dish on top of the peltier with the thermal paste and press down to assure it has good contact.
+
+**Step 23:**
+Trace the top of the petri dish with the smaller diameter onto a piece of felt (best if you get the type of felt that is sticky on one side). When done with the petri dish, do not place the top part on a surface so that nothing scratches the surface that you will be eventually looking through.
+
+>**Step 24:**
+Cut the circle shape of felt about 3mm in from where you traced so that it fits inside the petri dish lid. **(double check)**
+
+**Step 25:**
+Cut a hole in the center of the felt so that you can make a ring that is about a half of an inch thick and attach it to the inside of the lid of the petri dish. When attaching it to the inside, place the petri dish on a cloth (preferably a glasses cleaner cloth).
+
+>**Step 26:**
+If you have a 3D printer, you can download the stl file from our website **(include website link)** or have us send you a LED holder. Once you have the 3D printed LED holder, take the LED strip and wrap it around the inside and mark where it should be cut (on our LED strip from radio shack every 3rd LED there was a scissor marker where you could cut). 
+>
+>* **NOTE:**
+You should put the red and black wires from the LED strip through the small hole from the inside of the LED holder and then wrap it around. 
+>
+>If you are building more than one cloud chamber and want to use the other part of the LED strip you can look at Figure 9 for instructions.
+
+**include figure 9. Figure 9. This shows instructions that came with the LED strip from RadioShack on how to connect the LED strip to power if the part with the wires have already been cut off.
+
+**Step 27:**
+Cut the LED strip where it is needed and use double sided thin sticky tape to attach the LED strip to the inside of the LED holder.
+
+>**Step 28:**
+Connect wire connectors to the red and black wires coming from the LED strip.
+
+**Step 29:**
+Cut the birch plywood **(dimensions)**. 
+
+>**Step 30:**
+Use the template to see where to position the gooseneck, power supply, bolts for the mending plate to go over the power supply, CPU cooler, and eye screws for the bungees to hold the CPU cooler in place.
+
+**Step 31:**
+Use a ¼ inch drill bit and drill a hole for the bolts next to the power supply. To ensure these holes are in the right place, you can place your power supply on the birch plywood and position the mending plates in the bottom left and top right corners (you can read the 430 on the power supply) with a hole on each side outside of the power supply and draw a hole with a pencil on the plywood to indicate where to drill.
+
+**Include picture. Figure 10
+
+>**Step 32:**
+Once the holes are drilled, put the bolts in from underneath the birch plywood and connect them through the holes on the mending plates with wing nuts.
+
+**Step 33:**
+Now that the power supply is in place, you can use a 5/64 inch drill bit to drill 4 holes for the eye screws to go through, as shown in the template. They will be about **? cm/inches** behind and in front of the CPU cooler (the wires will be on the left side of the CPU cooler so you can see the wires coming from the peltier).
+
+>**Step 34:**
+Twist the eye screws into the holes. 
+
+**Step 35:**
+Put the bungees through the inside of the CPU cooler channels and connect them on each side to the eye screws.
+
+![alt text](https://mail.google.com/mail/u/0/?ui=2&ik=5f3d9120e7&view=fimg&th=14e029c7978314aa&attid=0.1.1&disp=emb&attbid=ANGjdJ_71mXTptIW2opt9AW_aU4Ev2CtMKSu3KcJD0W-OHqnQSbe4gJJrq2bef0Ni2Rk7rs3KXRgSQb9yONXjaoe2YlbuKsOCQaU_RBSJEadP1yfVZLXyjiZbg9DsAk&sz=s0-l75-ft&ats=1434563479471&rm=14e029c7978314aa&zw&atsh=1)
+Figure 11. Showing how to mount the bungees.
+
+>**Step 36:**
+Put the gooseneck arm and mount together.
+
+**Step 37:**
+Twist the LED holder on the gooseneck.
+
+>**Step 38:**
+The edge of the circular mount of the gooseneck should be about **? inches/cm** from the edge of the power supply (as shown on the template). Make sure this is a good spot for the gooseneck to be so that it is easy to place the LED holder around the petri dish on the CPU cooler. 
+
+**Step 39:**
+Once you are happy with the placement you can use a pencil to mark where you should drill the holes to mount it.
+
+>**Step 40:**
+Use a **? drill bit** to drill the 3 holes.
+
+**Step 41:**
+Place the gooseneck where it was positioned before and use a screwdriver to screw in the screws that came with the gooseneck mount to the plywood until they cannot twist anymore.
+
+>**Step 42:**
+With the gooseneck, place the LED holder around the petri dish, and measure how long the remaining yellow and black wires from the power supply should be. The yellow wire from the power supply will connect to the red wire from the LED strip and the black wire from the power supply will connect to the black wire from the LED strip. (See lengths of Black Wire 5 and Yellow Wire 3 from step 3).
+
+**Step 43:**
+Connect wire connectors to the remaining black and yellow wires. Put electrical tape over them as well, as done before.
+
+**NOTE:** When putting the wire connectors on black wire 5 and yellow wire 3, make sure the wire connectors are small enough to fit through the small hole on the LED holder with the tape wrapped around them.
+
+>**Step 44:**
+Make sure all the wires are connected through the wire connectors. Now you can plug in the power supply and turn it on to make sure the fan in the power supply works, fans on the CPU cooler work and the LEDs light. Once everything works, turn the power supply off.
+
+**Step 45:**
+Put 1mL of 99% alcohol evenly across the felt ring using an eyedropper.
+
+>**Step 46:**
+Take the radioactive source and place it on the bottom of the petri dish and then put the cover with the felt ring over it.
+
+**Step 47:**
+Turn on the power supply, and within a **minute or two** you will see the trails of the high energy particles (it works better if the lights are off).
+
+**Figure 12. Picture of trails.

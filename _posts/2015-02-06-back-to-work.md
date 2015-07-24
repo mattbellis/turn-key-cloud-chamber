@@ -14,9 +14,9 @@ tags: home work office coding design
 >
 >From Amazon:
 >
->1. [[1] 13 inch gooseneck arm](http://www.amazon.com/Stage-Microphone-Gooseneck-Black-13-inch/dp/B00080LUJW/ref=pd_bxgy_267_img_y)
->2. [[1] gooseneck mount](http://www.amazon.com/Stage-Microphone-Table-Mount-Black/dp/B0002XKYXI/ref=pd_sim_sbs_263_4?ie=UTF8&refRID=1HYM3R44ZJEZTDVE3E4B)
->3. [[2] 10 inch bungees](http://www.amazon.com/Highland-9050100-Mini-Bungee-Cord/dp/B0002MABXM/ref=sr_1_2?ie=UTF8&qid=1434054501&sr=8-2&keywords=highland+mini+bungee+cord)
+>1. [[1] 13 inch gooseneck arm](http://www.amazon.com/Stage-Microphone-Gooseneck-Black-13-inch/dp/B00080LUJW/ref=pd_bxgy_267_img_y) *(Optional)*
+>2. [[1] gooseneck mount](http://www.amazon.com/Stage-Microphone-Table-Mount-Black/dp/B0002XKYXI/ref=pd_sim_sbs_263_4?ie=UTF8&refRID=1HYM3R44ZJEZTDVE3E4B) *(Optional)*
+>3. [[2] 10 inch bungees](http://www.amazon.com/Highland-9050100-Mini-Bungee-Cord/dp/B0002MABXM/ref=sr_1_2?ie=UTF8&qid=1434054501&sr=8-2&keywords=highland+mini+bungee+cord) *(Optional)*
 >4. [[1] 430 watt power supply](http://www.amazon.com/EVGA-80PLUS-Certified-ATX12V-100-W1-0430-KR/dp/B00H33SDR4)
 >5. [[1] CPU cooler](http://www.amazon.com/Cooler-Master-Hyper-D92-Accelerated/dp/B00NXLYE4G/ref=sr_1_1?ie=UTF8&qid=1434114761&sr=8-1&keywords=Hyper+D92&pebp=1434118558686&perid=2D196C5BB57E49948B87)
 >6. [[2] tubes of arctic silver thermal paste (3.5 g per tube)](http://www.amazon.com/Arctic-Silver-Thermal-Compound-Grams/dp/B000OGX5AM/ref=sr_1_1?ie=UTF8&qid=1435084621&sr=8-1&keywords=arctic+silver+thermal+paste&pebp=1435084630049&perid=0Q4TMM3XMTVZX9WDYX9M)
@@ -26,24 +26,24 @@ tags: home work office coding design
 >
 >From Lowe's:
 >
->1. [[2] 6 inch mending plates](http://www.lowes.com/pd_64735-1277-220285_0Z2z8vi__?productId=3429136&pl=1&Ntt=hardware+6+inch)
->2. [[4] wing nuts (1/4 inch 20 thread)](http://www.lowes.com/pd_136135-37672-882028___?productId=3012213&pl=1&Ntt=wing+nut+008236724196)
->3. [[4] bolts (1/4 inch 20 thread)](http://www.lowes.com/pd_59060-37672-240051_0Z2z8vh__?productId=3058311&pl=1&Ntt=4.5+inch+bolt+1%2F4+20+thread+carriage)
->4. [[4] eye screws](http://www.lowes.com/pd_58393-37672-605299___?productId=4651509&pl=1&Ntt=58393)
->5. [1] 8 ft Trim
+>1. [[2] 6 inch mending plates](http://www.lowes.com/pd_64735-1277-220285_0Z2z8vi__?productId=3429136&pl=1&Ntt=hardware+6+inch) *(Optional)*
+>2. [[4] wing nuts (1/4 inch 20 thread)](http://www.lowes.com/pd_136135-37672-882028___?productId=3012213&pl=1&Ntt=wing+nut+008236724196) *(Optional)*
+>3. [[4] bolts (1/4 inch 20 thread)](http://www.lowes.com/pd_59060-37672-240051_0Z2z8vh__?productId=3058311&pl=1&Ntt=4.5+inch+bolt+1%2F4+20+thread+carriage) *(Optional)*
+>4. [[4] eye screws](http://www.lowes.com/pd_58393-37672-605299___?productId=4651509&pl=1&Ntt=58393) *(Optional)*
+>5. [1] 8 ft Trim **(ADD LINK)**
 >
 >From Home Depot:
 >
 >1. [[1] 2ft x 2ft piece of project panel](http://www.homedepot.com/p/Project-Panels-2-ft-x-2-ft-Project-Panel-PP1/203553730)
->2. [[1] 2ft x 4ft piece of birch plywood](http://www.homedepot.com/p/Project-Panels-1-2-in-x-2-ft-x-4-ft-Birch-Plywood-1503304/205710748)
->3. [[18.5 inches] package of black flex tubing (1/2 inch x 7ft)](http://www.homedepot.com/p/Gardner-Bender-Flex-Tubing-1-2-FLX-5007T/202905454)
+>2. [[1] 2ft x 4ft piece of birch plywood](http://www.homedepot.com/p/Project-Panels-1-2-in-x-2-ft-x-4-ft-Birch-Plywood-1503304/205710748) *(Optional)*
+>3. [[18.5 inches] package of black flex tubing (1/2 inch x 7ft)](http://www.homedepot.com/p/Gardner-Bender-Flex-Tubing-1-2-FLX-5007T/202905454) *(Optional)*
 >
 >From Radioshack:
 >
 >1. 1 White LED strip (can get from [Amazon](http://www.amazon.com/Lampux-Flexible-Lights-Daylight-Waterproof/dp/B00HSF66JO/ref=sr_1_2?ie=UTF8&qid=1436812044&sr=8-2&keywords=White+LED+strip) as well)
 >
 >From Advanced Auto Parts:
->1. [[1] The Absorber](http://shop.advanceautoparts.com/p/the-absorber-pva-drying-towel-27-x-17-51149/6140043-P?searchTerm=the+absorber)
+>1. [[1] The Absorber](http://shop.advanceautoparts.com/p/the-absorber-pva-drying-towel-27-x-17-51149/6140043-P?searchTerm=the+absorber) (can use felt instead)
 >
 >Other:
 >

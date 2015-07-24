@@ -43,6 +43,7 @@ tags: home work office coding design
 >1. 1 White LED strip (can get from [Amazon](http://www.amazon.com/Lampux-Flexible-Lights-Daylight-Waterproof/dp/B00HSF66JO/ref=sr_1_2?ie=UTF8&qid=1436812044&sr=8-2&keywords=White+LED+strip) as well)
 >
 >From Advanced Auto Parts:
+>
 >1. [[1] The Absorber](http://shop.advanceautoparts.com/p/the-absorber-pva-drying-towel-27-x-17-51149/6140043-P?searchTerm=the+absorber) (can use felt instead)
 >
 >Other:

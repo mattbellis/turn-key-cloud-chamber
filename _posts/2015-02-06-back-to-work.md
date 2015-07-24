@@ -15,7 +15,7 @@ tags: home work office coding design
 >
 >From Amazon:
 >
->1. [1, 13 inch gooseneck arm](http://www.amazon.com/Stage-Microphone-Gooseneck-Black-13-inch/dp/B00080LUJW/ref=pd_bxgy_267_img_y)
+>1. [[1], 13 inch gooseneck arm](http://www.amazon.com/Stage-Microphone-Gooseneck-Black-13-inch/dp/B00080LUJW/ref=pd_bxgy_267_img_y)
 >2. [1 gooseneck mount](http://www.amazon.com/Stage-Microphone-Table-Mount-Black/dp/B0002XKYXI/ref=pd_sim_sbs_263_4?ie=UTF8&refRID=1HYM3R44ZJEZTDVE3E4B)
 >3. [2, 10 inch bungees](http://www.amazon.com/Highland-9050100-Mini-Bungee-Cord/dp/B0002MABXM/ref=sr_1_2?ie=UTF8&qid=1434054501&sr=8-2&keywords=highland+mini+bungee+cord)
 >4. [1, 430 watt power supply](http://www.amazon.com/EVGA-80PLUS-Certified-ATX12V-100-W1-0430-KR/dp/B00H33SDR4)
@@ -50,7 +50,7 @@ tags: home work office coding design
 >4. 1 sheet of felt (sticky on one side)
 >5. 1 bottle of 99% rubbing alcohol
 >6. Radioactive source
->7. 1 can of spray paint
+>7. 1 can of black spray paint
 >8. 1 roll of double sided tape
 
 >##**Tools**

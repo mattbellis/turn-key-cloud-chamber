@@ -10,6 +10,8 @@ tags: relax fun songs playlist
 ---
 
 >#**Advisor:** Dr. Matt Bellis
+<a href="mailto:mbellis@siena.edu">Email <a/><br>
+<a href="https://twitter.com/matt_bellis">Twitter <a/>
 
 >##**Summer 2015**
 >

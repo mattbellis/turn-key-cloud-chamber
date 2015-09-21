@@ -3,7 +3,7 @@ layout: post
 title: "Contributors"
 date: 2015-01-09
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
+    - https://c2.staticflickr.com/4/3470/3274237149_31f20b07e2_b.jpg
 thumb: http://colleges.usnews.rankingsandreviews.com/img/college-photo_22646._445x280-zmm.jpg
 category: music
 tags: relax fun songs playlist

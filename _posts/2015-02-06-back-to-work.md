@@ -3,8 +3,7 @@ layout: post
 title: "Materials and Tools Needed"
 date: 2015-02-06
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
+    - https://upload.wikimedia.org/wikipedia/commons/f/f4/20060513_toolbox.jpg
 thumb: http://ecx.images-amazon.com/images/I/41EeLuq7bGL.jpg
 categories: development work
 tags: home work office coding design

@@ -3,8 +3,7 @@ layout: post
 title: "Helpful Links"
 date: 2015-01-12
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/vanilla.jpeg
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/morning.jpeg
+    - https://c1.staticflickr.com/1/214/464442670_8d18346296_b.jpg
 thumb: http://www.okpt.org/resource/resmgr/images/helpfullinks.gif
 categories: travel city
 tags: work business metropolis
